@@ -1,0 +1,5 @@
+D:\Dropbox\01.SoftUni\2.Level#2_OPP_HQPC\VS_WorkSpase_CSharp_OPP\1.Persons\bin\Debug\1.Persons.exe
+D:\Dropbox\01.SoftUni\2.Level#2_OPP_HQPC\VS_WorkSpase_CSharp_OPP\1.Persons\bin\Debug\1.Persons.pdb
+D:\Dropbox\01.SoftUni\2.Level#2_OPP_HQPC\VS_WorkSpase_CSharp_OPP\1.Persons\obj\Debug\1.Persons.csprojResolveAssemblyReference.cache
+D:\Dropbox\01.SoftUni\2.Level#2_OPP_HQPC\VS_WorkSpase_CSharp_OPP\1.Persons\obj\Debug\1.Persons.exe
+D:\Dropbox\01.SoftUni\2.Level#2_OPP_HQPC\VS_WorkSpase_CSharp_OPP\1.Persons\obj\Debug\1.Persons.pdb
