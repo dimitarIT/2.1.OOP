@@ -1,0 +1,5 @@
+D:\Dropbox\01.SoftUni\2.Level#2_OPP_HQPC\VS_WorkSpase_CSharp_OPP\3.PC_Catalogue\obj\Debug\2.PC_Catalogue.exe
+D:\Dropbox\01.SoftUni\2.Level#2_OPP_HQPC\VS_WorkSpase_CSharp_OPP\3.PC_Catalogue\obj\Debug\2.PC_Catalogue.pdb
+D:\Dropbox\01.SoftUni\2.Level#2_OPP_HQPC\VS_WorkSpase_CSharp_OPP\3.PC_Catalogue\obj\Debug\3.PC_Catalogue.csprojResolveAssemblyReference.cache
+D:\Dropbox\01.SoftUni\2.Level#2_OPP_HQPC\VS_WorkSpase_CSharp_OPP\3.PC_Catalogue\bin\Debug\2.PC_Catalogue.exe
+D:\Dropbox\01.SoftUni\2.Level#2_OPP_HQPC\VS_WorkSpase_CSharp_OPP\3.PC_Catalogue\bin\Debug\2.PC_Catalogue.pdb
