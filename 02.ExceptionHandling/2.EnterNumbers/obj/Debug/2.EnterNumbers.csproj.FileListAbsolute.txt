@@ -1,0 +1,6 @@
+D:\Dropbox\01.SoftUni\2.Level#2_OPP_HQPC\VS_WorkSpase_CSharp_OPP\2.EnterNumbers\bin\Debug\2.EnterNumbers.exe.config
+D:\Dropbox\01.SoftUni\2.Level#2_OPP_HQPC\VS_WorkSpase_CSharp_OPP\2.EnterNumbers\bin\Debug\2.EnterNumbers.exe
+D:\Dropbox\01.SoftUni\2.Level#2_OPP_HQPC\VS_WorkSpase_CSharp_OPP\2.EnterNumbers\bin\Debug\2.EnterNumbers.pdb
+D:\Dropbox\01.SoftUni\2.Level#2_OPP_HQPC\VS_WorkSpase_CSharp_OPP\2.EnterNumbers\obj\Debug\2.EnterNumbers.csprojResolveAssemblyReference.cache
+D:\Dropbox\01.SoftUni\2.Level#2_OPP_HQPC\VS_WorkSpase_CSharp_OPP\2.EnterNumbers\obj\Debug\2.EnterNumbers.exe
+D:\Dropbox\01.SoftUni\2.Level#2_OPP_HQPC\VS_WorkSpase_CSharp_OPP\2.EnterNumbers\obj\Debug\2.EnterNumbers.pdb
