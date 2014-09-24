@@ -1,0 +1,5 @@
+D:\Dropbox\01.SoftUni\2.Level#2_OPP_HQPC\VS_WorkSpase_CSharp_OPP\1.SquareRoot\bin\Debug\1.SquareRoot.exe.config
+D:\Dropbox\01.SoftUni\2.Level#2_OPP_HQPC\VS_WorkSpase_CSharp_OPP\1.SquareRoot\bin\Debug\1.SquareRoot.exe
+D:\Dropbox\01.SoftUni\2.Level#2_OPP_HQPC\VS_WorkSpase_CSharp_OPP\1.SquareRoot\bin\Debug\1.SquareRoot.pdb
+D:\Dropbox\01.SoftUni\2.Level#2_OPP_HQPC\VS_WorkSpase_CSharp_OPP\1.SquareRoot\obj\Debug\1.SquareRoot.exe
+D:\Dropbox\01.SoftUni\2.Level#2_OPP_HQPC\VS_WorkSpase_CSharp_OPP\1.SquareRoot\obj\Debug\1.SquareRoot.pdb
