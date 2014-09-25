@@ -1,0 +1,7 @@
+D:\Dropbox\01.SoftUni\2.Level#2_OPP_HQPC\VS_WorkSpase_CSharp_OPP\1.Point3D\obj\Debug\1.Point3D.exe
+D:\Dropbox\01.SoftUni\2.Level#2_OPP_HQPC\VS_WorkSpase_CSharp_OPP\1.Point3D\obj\Debug\1.Point3D.pdb
+D:\Dropbox\01.SoftUni\2.Level#2_OPP_HQPC\VS_WorkSpase_CSharp_OPP\1.Point3D\obj\Debug\1.2.3 Point3D-DistanceColculator-Paths.csprojResolveAssemblyReference.cache
+D:\Dropbox\01.SoftUni\2.Level#2_OPP_HQPC\VS_WorkSpase_CSharp_OPP\1.Point3D\bin\Debug\1.Point3D.exe
+D:\Dropbox\01.SoftUni\2.Level#2_OPP_HQPC\VS_WorkSpase_CSharp_OPP\1.Point3D\bin\Debug\1.Point3D.pdb
+D:\Dropbox\01.SoftUni\2.Level#2_OPP_HQPC\VS_WorkSpase_CSharp_OPP\1.Point3D\bin\Debug\Constructors.exe
+D:\Dropbox\01.SoftUni\2.Level#2_OPP_HQPC\VS_WorkSpase_CSharp_OPP\1.Point3D\bin\Debug\Constructors.pdb
