@@ -1,0 +1,2 @@
+D:\Dropbox\01.SoftUni\2.Level#2_OPP_HQPC\VS_WorkSpase_CSharp_OPP\6.Namespaces\bin\Debug\6.Namespaces.exe.config
+D:\Dropbox\01.SoftUni\2.Level#2_OPP_HQPC\VS_WorkSpase_CSharp_OPP\6.Namespaces\obj\Debug\6.Namespaces.csprojResolveAssemblyReference.cache
