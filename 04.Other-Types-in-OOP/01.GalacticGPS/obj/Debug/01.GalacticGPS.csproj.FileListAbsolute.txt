@@ -1,0 +1,5 @@
+D:\Dropbox\01.SoftUni\2.Level#2_OPP_HQPC\VS_WorkSpase_CSharp_OPP\01.GalacticGPS\bin\Debug\01.GalacticGPS.exe
+D:\Dropbox\01.SoftUni\2.Level#2_OPP_HQPC\VS_WorkSpase_CSharp_OPP\01.GalacticGPS\bin\Debug\01.GalacticGPS.pdb
+D:\Dropbox\01.SoftUni\2.Level#2_OPP_HQPC\VS_WorkSpase_CSharp_OPP\01.GalacticGPS\obj\Debug\01.GalacticGPS.csprojResolveAssemblyReference.cache
+D:\Dropbox\01.SoftUni\2.Level#2_OPP_HQPC\VS_WorkSpase_CSharp_OPP\01.GalacticGPS\obj\Debug\01.GalacticGPS.exe
+D:\Dropbox\01.SoftUni\2.Level#2_OPP_HQPC\VS_WorkSpase_CSharp_OPP\01.GalacticGPS\obj\Debug\01.GalacticGPS.pdb
